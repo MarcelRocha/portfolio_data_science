@@ -11,7 +11,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
     * [Supervised Learning: Testers in Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/tree/master/enem_classification): Testing out several different supervised learning algorithms to build a model that accurately predicts whether a student took the Enem exam only to test his/her skills. 
 
-    * [Supervised Learning: Credit Base](): Determining if a client should or not get a loan based on a credit history data base.
+    * [Supervised Learning: Credit Base](): Determining if a client should or not get a loan based on a credit history data base. (Ongoing)
 
 *Tools: Scikit-learn, Pandas, Seaborn, Matplotlib*
 
