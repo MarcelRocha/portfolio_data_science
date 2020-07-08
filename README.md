@@ -7,7 +7,7 @@ Repository containing portfolio of data science projects completed by me for aca
 # Contents
 
 * ## Machine Learning
-    * [Predicting Math Marks for Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/tree/master/enem_regression): A model to predict the math marks of the national exam Enem which enable a student to apply for a spot in several public and private universities in Brazil. This was a challenge to apply for the 2 month Aceleradev - Data Science program offered by Codenation and sponsored by several companies. In this challenge I got a mark of 93.87.
+    * [Predicting Math Marks for Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/tree/master/enem_regression): A model to predict the math marks of the national exam Enem which enable a student to apply for a spot in several public and private universities in Brazil. This was a challenge to apply for the 2 month Aceleradev - Data Science program offered by Codenation and sponsored by several companies. In this challenge my score was 93.36%.
 
     * [Supervised Learning: Testers in Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/tree/master/enem_classification): Testing out several different supervised learning algorithms to build a model that accurately predicts whether a student took the Enem exam only to test his/her skills. 
 
