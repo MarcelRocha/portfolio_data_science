@@ -11,8 +11,8 @@ Repository containing portfolio of data science projects completed by me for aca
 
     * [Supervised Learning: Testers in Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/tree/master/enem_classification): Testing out several different supervised learning algorithms to build a model that accurately predicts whether a student took the Enem exam only to test his/her skills. 
 
-    * [Supervised Learning: Credit Base](): Determining if a client should or not get a loan based on a credit history data base. (Ongoing)
-
+    * [Insights: CO2 Emissions](https://github.com/MarcelRocha/portfolio_data_science/tree/master/Insight_co2_emissions): Exploratory analysis of CO2 emissions in the Southeastern Region of Brazil between 2012 and 2019.
+    
 *Tools: Scikit-learn, Pandas, Seaborn, Matplotlib*
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, you can reach me via e-mail at marcel_nanoufrj@gmail.com.
