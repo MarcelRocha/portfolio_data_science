@@ -15,7 +15,7 @@ Repository containing portfolio of data science projects completed by me for aca
     
     * [Implementation of a credit risk system](): It classifies the risk of giving a loan to a certain client. (on going)
     
-    * [Customer Segmentation and Recommendation System](): Customer segmentation of different portfolios based on a clients database, using K-means algorithm, and recommendation of new clients to each portfolio using KNN algorithm.
+    * [Customer Segmentation and Recommendation System](https://github.com/MarcelRocha/portfolio_data_science/tree/master/recommendation%20system): Customer segmentation of different portfolios based on a clients database, using K-means algorithm, and recommendation of new clients to each portfolio using KNN algorithm.
     
 *Tools: Scikit-learn, Pandas, Seaborn, Matplotlib*
 
