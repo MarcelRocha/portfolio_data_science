@@ -31,6 +31,10 @@ Repository containing portfolio of data science projects completed by me for aca
       
       * This is a brief study about the CO2 emissions in southeastern Brazil between 2012 and 2019.
       
+      * It was found a peak of CO2 emissions in 2015, responsible for 100x more emissions than the other years analysed. 
+      
+      * The state of São Paulo contributed the most for the CO2 emissions.
+      
       * This dataset was retrieved at Brazilian Open Data Portal in the [Energy Sources section](http://dados.gov.br/dataset/fontes-energeticas).
      
     * [Customer Segmentation and Recommendation System](https://github.com/MarcelRocha/portfolio_data_science/tree/master/recommendation%20system): 
