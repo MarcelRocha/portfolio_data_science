@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks.
+Repository containing portfolio of data science projects completed by me for academic, self learning and hobby purposes. Presented in the form of iPython Notebooks.
 
 *Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.*
 
@@ -9,7 +9,7 @@ Repository containing portfolio of data science projects completed by me for aca
 * ## Projects
     * [Predicting Math Scores for Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/tree/master/enem_regression): 
       
-      * This competition was promoted by CodeNation.dev, It is a training program for technology professionals. For 10 weeks, developers and data scientists have access to challenges and content to acquire and practice the technical skills most used by technology companies around the world.
+      * This competition was promoted by CodeNation.dev, it is a training program for technology professionals. For 10 weeks, developers and data scientists have access to challenges and content to acquire and practice the technical skills most used by technology companies around the world.
 
       * The objective of the competition was to predict the grades of the math exam. In this competition my model reached a score of 93.37% using the Random Forest Regressor algorithm.
 
@@ -19,7 +19,7 @@ Repository containing portfolio of data science projects completed by me for aca
       
       * Part of the Data Science program promoted by Codenation.dev.
       
-      * The objective of this challenge was to use supervised learning to predict whether a student is taking the test only to tests his/her skills in Enem 2016 being classified as " Treineiros".
+      * The objective of this challenge was to use supervised learning to predict whether a students are taking the test only to test their skills in Enem 2016 being classified as " Treineiros".
       
       * In this project, it was tested several supervised learning algorithms where the Random Forest Classifier performed best.
       
