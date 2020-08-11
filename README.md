@@ -7,7 +7,8 @@ Repository containing portfolio of data science projects completed by me for aca
 # Contents
 
 * ## Projects
-    * [Predicting Math Scores for Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/tree/master/enem_regression): 
+   * Project Enem-2016:
+    * [Predicting Math Scores for Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/blob/master/Project%20Enem/enem_regression/Enem-Regression.ipynb): 
       
       * This competition was promoted by CodeNation.dev, it is a training program for technology professionals. For 10 weeks, developers and data scientists have access to challenges and content to acquire and practice the technical skills most used by technology companies around the world.
 
@@ -15,7 +16,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
       * The data provived was of the ENEM 2016, the standardized Brazilian national exam, which evaluates high school students in Brazil.
     
-    * [Supervised Learning: Testers in Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/tree/master/enem_classification): 
+    * [Supervised Learning: Testers in Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/blob/master/Project%20Enem/enem_classification/Enem-Classification.ipynb): 
       
       * Part of the Data Science program promoted by Codenation.dev.
       
@@ -27,7 +28,7 @@ Repository containing portfolio of data science projects completed by me for aca
       
       * It was also implemented a code to automatic evaluate the models and use only the best one. 
  
-    * [Insights: CO2 Emissions](https://github.com/MarcelRocha/portfolio_data_science/tree/master/Insight_co2_emissions):
+    * [Insights: CO2 Emissions](https://github.com/MarcelRocha/portfolio_data_science/blob/master/Insight_co2_emissions/Insights_co2_emissions.ipynb):
       
       * This is a brief study about the CO2 emissions in southeastern Brazil between 2012 and 2019.
       
@@ -47,6 +48,6 @@ Repository containing portfolio of data science projects completed by me for aca
       
       * Recommendation System: in this part, it was used the algorithm k-mean to cluster the clients of each Portfolio and then recommend new leads based on each cluster using the Knn algorithm. The clustering helped to make the project faster. But the validation metrics still need some work to undestand if the project was fully successful.
     
-*Tools: Scikit-learn, Pandas, Seaborn, Matplotlib*
+*Tools: Scikit-learn, Pandas, Seaborn, Matplotlib, SQL*
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, you can reach me via e-mail at marcel_nanoufrj@gmail.com.
