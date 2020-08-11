@@ -1,0 +1,18 @@
+
+Decision Tree
+Running time: 0.005 s
+Accuracy 0.997
+Precision 1.0
+Recall 0.977
+
+Bagging
+Running time: 1.077 s
+Accuracy 0.9956
+Precision 0.9892
+Recall 0.977
+
+Random Forest
+Running time: 0.17 s
+Accuracy 0.997
+Precision 1.0
+Recall 0.977
