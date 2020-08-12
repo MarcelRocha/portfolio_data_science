@@ -8,25 +8,25 @@ Repository containing portfolio of data science projects completed by me for aca
 
 * ## Projects
    * Project Enem-2016:
-    * [Predicting Math Scores for Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/blob/master/Project%20Enem/enem_regression/Enem-Regression.ipynb): 
-      
-      * This competition was promoted by CodeNation.dev, it is a training program for technology professionals. For 10 weeks, developers and data scientists have access to challenges and content to acquire and practice the technical skills most used by technology companies around the world.
+      * [Predicting Math Scores for Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/blob/master/Project%20Enem/enem_regression/Enem-Regression.ipynb): 
 
-      * The objective of the competition was to predict the grades of the math exam. In this competition my model reached a score of 93.37% using the Random Forest Regressor algorithm.
+        * This competition was promoted by CodeNation.dev, it is a training program for technology professionals. For 10 weeks, developers and data scientists have access to challenges and content to acquire and practice the technical skills most used by technology companies around the world.
 
-      * The data provived was of the ENEM 2016, the standardized Brazilian national exam, which evaluates high school students in Brazil.
-    
-    * [Supervised Learning: Testers in Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/blob/master/Project%20Enem/enem_classification/Enem-Classification.ipynb): 
-      
-      * Part of the Data Science program promoted by Codenation.dev.
-      
-      * The objective of this challenge was to use supervised learning to predict whether a students are taking the test only to test their skills in Enem 2016 being classified as " Treineiros".
-      
-      * In this project, it was tested several supervised learning algorithms where the Random Forest Classifier performed best.
-      
-      * My score in the challenge was 99,73 and it matched with it's accuracy.
-      
-      * It was also implemented a code to automatic evaluate the models and use only the best one. 
+        * The objective of the competition was to predict the grades of the math exam. In this competition my model reached a score of 93.37% using the Random Forest Regressor algorithm.
+
+        * The data provived was of the ENEM 2016, the standardized Brazilian national exam, which evaluates high school students in Brazil.
+
+      * [Supervised Learning: Testers in Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/blob/master/Project%20Enem/enem_classification/Enem-Classification.ipynb): 
+
+        * Part of the Data Science program promoted by Codenation.dev.
+
+        * The objective of this challenge was to use supervised learning to predict whether a students are taking the test only to test their skills in Enem 2016 being classified as " Treineiros".
+
+        * In this project, it was tested several supervised learning algorithms where the Random Forest Classifier performed best.
+
+        * My score in the challenge was 99,73 and it matched with it's accuracy.
+
+        * It was also implemented a code to automatic evaluate the models and use only the best one. 
  
     * [Insights: CO2 Emissions](https://github.com/MarcelRocha/portfolio_data_science/blob/master/Insight_co2_emissions/Insights_co2_emissions.ipynb):
       
@@ -47,7 +47,9 @@ Repository containing portfolio of data science projects completed by me for aca
       * Data cleaning: the data of the market base data set was analysed and cleaned for a further implementation of the model.
       
       * Recommendation System: in this part, it was used the algorithm k-mean to cluster the clients of each Portfolio and then recommend new leads based on each cluster using the Knn algorithm. The clustering helped to make the project faster. But the validation metrics still need some work to undestand if the project was fully successful.
-    
+    * Small Projects: 
+      * [Modeling Oxidation Behavior in Metals](https://github.com/MarcelRocha/portfolio_data_science/blob/master/Small%20projects/Modeling%20Oxidation%20Knectics.ipynb)
+      * [Scraping Anime Ranks: MyAnimeList](https://github.com/MarcelRocha/portfolio_data_science/blob/master/Small%20projects/scraping_MAL/Anime_Scraper_Mal.ipynb)
 *Tools: Scikit-learn, Pandas, Seaborn, Matplotlib, SQL*
 
 If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, you can reach me via e-mail at marcel_nanoufrj@gmail.com.
