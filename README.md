@@ -7,7 +7,7 @@ Repository containing portfolio of data science projects completed by me for aca
 # Contents
 
 * ## Projects
-   * Project Enem-2016:
+   * __Project Enem-2016:__
       * [Predicting Math Scores for Enem-2016](https://github.com/MarcelRocha/portfolio_data_science/blob/master/Project%20Enem/enem_regression/Enem-Regression.ipynb): 
 
         * This competition was promoted by CodeNation.dev, it is a training program for technology professionals. For 10 weeks, developers and data scientists have access to challenges and content to acquire and practice the technical skills most used by technology companies around the world.
