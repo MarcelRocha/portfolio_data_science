@@ -1,0 +1,18 @@
+
+Ridge
+Running time: 0.003 s
+MAE 5388.5134
+MSE 41.1256
+MedAE 54.9857
+
+Lasso
+Running time: 0.003 s
+MAE 5379.622
+MSE 41.0171
+MedAE 54.995
+
+Random Forest
+Running time: 14.385 s
+MAE 5793.3227
+MSE 33.0475
+MedAE 52.5908
